@@ -1,0 +1,45 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.cont {
+  padding: 30px;
+}
+
+.com-cont {
+  display: flex;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.main-cont {
+  display: flex;
+}
+
+.label {
+  color: #475569;
+}
+
+.button {
+  height: 35px;
+  width: 100px;
+  color: #ffffff;
+  background-color: #0284c7;
+  border-radius: 12px;
+  border-style: solid;
+  border-width: 0;
+}
+
+.count {
+  background-color: #0284c7;
+  color: #dee0e3;
+}
